@@ -1,0 +1,9 @@
+{
+    "name":"Extension de météo",
+    "id":"weather-extension",
+    "author":"AlexisL61",
+    "image":"https://img.icons8.com/ios-glyphs/100/000000/door-opened.png",
+    "smallDescription":"Extension pour voir la météo d'une ville dans votre serveur",
+    "description":""
+
+}
